@@ -25,7 +25,7 @@ body {
     display: flex;
     width: 100%;
     max-width: 800px;
-    margin: 24px;
+    margin: 64px 24px;
 }
 
 .container_hero {
@@ -131,27 +131,7 @@ header nav .menu {
     padding: 8px 16px 8px 16px;
 }
 
-/* Color */
 
-.dark {
-    background-color: #1f2937;
-}
-
-.medium {
-    background-color: #e5e7eb;
-}
-
-.light {
-    background-color: white;
-}
-
-.button,
-.container_cta {
-    background-color: #3882f6;
-    color: white;
-    box-shadow: 0px 2px 24px 4px rgba(0, 0, 0, 0.5);
-    border-radius: 12px;
-}
 
 /* Typography */
 body {
